@@ -48,6 +48,8 @@ Mungkin sebagian orang belum mengetahui apa itu aplikasi Greenify. Aplikasi Gree
 •	Terakhir centang "Keep Notifications".
 •	Setelah itu, silahkan anda kembali ke menu awal. Pilih tanda plus (+) dan tentukan mana saja aplikasi yang ingin anda hibernasikan.
 
+`cara upload file laravel ke hosting <https://karinov.co.id/amp/cara-upload-laravel-ke-hosting/>`_
+
 Gunakan Aplikasi Swapper & Tools
 ==================
 Jika sebelumnya anda harus menghilangkan aplikasi yang tidak digunakan atau memilih menidurkannya, maka cara yang satu ini dengan tidak mengaktifkannya yaitu menggunakan aplikasi Swapper & Tools. Aplikasi Swapper & Tools adalah aplikasi yang berfungsi untuk tidak mengaktifkan beberapa aplikasi di latar belakang. Seperti inilah caranya.
