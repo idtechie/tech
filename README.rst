@@ -15,6 +15,7 @@ Features
 
 - Be awesome
 - Make things faster
+- https://fedora.or.id - kumpulan tutorial teknologi indonesia
 
 Installation
 ------------
